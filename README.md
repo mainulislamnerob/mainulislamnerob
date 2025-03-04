@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Md.Mainul Islam Nerob]!
+# 👋 Hi, I'm Md.Mainul Islam Nerob
 ### 🚀 About Me
 - 🎓 Final-year CSE student at Green University of Bangladesh  
 - 💡 Interested in AI, NLP, and Bioinformatics, Problem Solving 
